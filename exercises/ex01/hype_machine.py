@@ -1,5 +1,10 @@
-# TODO: Write docstring here
+"""This program hypes you up, show you your best even when you're at your worst"""
 
-# TODO: Initialize __author__ variable here
+__author__ = "730528210"
 
-# TODO: Implement your program logic here
+name: str = input("What is your name?")
+print("You entered: " + name)
+
+print("You know, " + name + ", you're a baddie")
+print("How does it feel to be unstoppable, " + name + "?")
+print(name + " you are smart enough to survive Comp110")
